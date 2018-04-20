@@ -1,7 +1,7 @@
 
 === Installing the Client Adapter
 
-Download the {appserver_name} distribution and unzip
+Download the {appserver_name} distribution appropriate version from http://wildfly.org/downloads/ and unzip
 it into a directory on your machine.
 
 ifeval::[{project_community}==true]
